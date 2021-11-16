@@ -1,0 +1,14 @@
+body{
+	font-family:helvetica;
+	background-color: lightskyblue;
+}
+
+h1{
+	color:green;
+	font-size:40px
+}
+
+h2{
+	color:salmon;
+	font-size:30px;
+}
